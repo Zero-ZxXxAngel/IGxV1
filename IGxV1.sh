@@ -46,9 +46,10 @@ touch target.tmp user.tmp unknown.tmp
 
 # banner + menu
 echo -e '''
-      \e[1;37m                _  __       _ 
-      \e[1;37m__     | _|_ o |_)|_     o (_|
-      \e[1;37m||||_| |  |_ | |_)|  ___ | __|
+      \e[1;37m   ____
+      \e[1;37m| |        \   / -|
+      \e[1;37m| |   __ \/ \ /   |
+      \e[1;37m| |____| /\  v   _|_
    \e[1;37m[\e[1;31m Contact \e[1;31m:\e[1;34m https://fb.me/n00b.me\e[1;37m ]
 
 1\e[1;31m. \e[1;37mGet \e[1;31m+ \e[1;37mcrack target from spesific \e[1;32m@username\e[1;37m
