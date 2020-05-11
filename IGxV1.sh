@@ -24,27 +24,6 @@ echo "  <=====[       Tools By Zero & ZxXx-Angel        ]=====>" | lolcat
 echo "  <=====[       Concact Me : +6281383189919       ]=====>" | lolcat
 echo "  <==========================[]=========================>" | lolcat
 
-CorrectUsername = "Zero"
-CorrectPassword = "ZxXx-Angel"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS \x1b[1;96m>>>> ")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
-            loop = 'false'
-        else:
-            print "insert correctly"
-            os.system('xdg-open https://www.instagram.com/zero_xvip/')
-    else:
-        print "wrong dear!"
-        os.system('xdg-open https://www.instagram/zero_xvip/')
-
-def login():
-	os.system('clear')
-	try:
 sleep 1
 
 ###################################################
