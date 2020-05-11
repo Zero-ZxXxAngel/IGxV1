@@ -1,8 +1,5 @@
 # !/bin/bash
-# Author 		: ./Lolz
-# Thanks to 		: JavaGhost - Bashid.org
-# Recode tinggal recode aja okeh, tapi cantumin source lah tolol
-# Yamaap kalau scriptnya acak"an:(
+# Author: Zero & ZxXx-Angel
 
 # color(bold)
 red='\e[1;31m'
@@ -17,7 +14,7 @@ white='\e[1;37m'
 # trap
 trap ctrl_c INT
 
-# If user click ctrl + c = program stopped and remove all tmp file in dir multiBF_ig
+# If user click ctrl + c = program stopped and remove all tmp file in dir IGxV1
 function ctrl_c(){
 	if [[ ! -e *.tmp* ]]; then
 		echo -e "${white}"
