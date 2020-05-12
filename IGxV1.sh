@@ -49,11 +49,11 @@ echo -e $b "99. Exit${enda}";
 read -p "choose the number =>" pil;
 
 case $pil in
-1) nano password1.txt
+1) nano abc.txt
 echo
 
 ;;
-2) nano password2.txt
+2) nano abcd.txt
 echo
 
 ;;
