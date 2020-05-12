@@ -57,7 +57,7 @@ echo
 echo
 
 ;;
-3) python2 Vnm.py
+3) python2 init.py
 
 ;;
 
